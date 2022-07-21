@@ -9,7 +9,7 @@ pygame.init()
 screen=pygame.display.set_mode((500,500))
 
 
-pygame.display.set_caption('Tank')#changement du titre de la fenêtre
+pygame.display.set_caption('Rocket')#changement du titre de la fenêtre
 me=Player()#initialisation du player
 
 #définir un temps pour les missiles
